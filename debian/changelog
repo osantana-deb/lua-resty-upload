@@ -1,0 +1,5 @@
+lua-resty-upload (0.09-1) trusty; urgency=low
+
+  * Initial release.
+
+ -- Osvaldo Santana Neto <osvaldo.neto@titansgroup.com.br>  Tue, 16 Dec 2014 15:19:00 -0300
