@@ -5,3 +5,14 @@ go
 t/servroot/
 reindex
 test.html
+
+*-resty-upload/
+debian/files
+debian/lua-resty-upload-dev.install
+debian/lua-resty-upload.debhelper.log
+debian/lua-resty-upload.install
+debian/lua-resty-upload.substvars
+debian/lua-resty-upload/
+debian/lua_versions
+debian/tmp/
+debian/trash

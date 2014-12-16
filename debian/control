@@ -3,7 +3,7 @@ Section: interpreters
 Priority: optional
 Maintainer: Osvaldo Santana Neto <osvaldo.neto@titansgroup.com.br>
 Build-Depends: debhelper (>= 8), dh-lua
-Standards-Version: 3.9.3
+Standards-Version: 3.9.5
 Homepage: https://github.com/openresty/lua-resty-upload
 
 Package: lua-resty-upload
